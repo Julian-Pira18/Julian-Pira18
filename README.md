@@ -4,7 +4,7 @@ Hi! I'm Julian Pira👋, a passionate software developer with experience in a va
 ## 🌐 Socials 
 [Linkedin](https://www.linkedin.com/in/josejulianpiranaranjo/)
 
-Tech Stack
+## 💻 Tech Stack
 Golang, Python, Javascript.
 Html, css. Tailwind, Astro.
 
