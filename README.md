@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Julian-Pira18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💫About Me
+Hi! I'm Julian Pira👋, a passionate software developer with experience in a variety of technologies.
 
-<!---
-Julian-Pira18/Julian-Pira18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials 
+[Linkedin](https://www.linkedin.com/in/josejulianpiranaranjo/)
+
+Tech Stack
+Golang, Python, Javascript.
+Html, css. Tailwind, Astro.
+
+MySQL, PostgreSQL, MongoDB.
+
+
+
+
