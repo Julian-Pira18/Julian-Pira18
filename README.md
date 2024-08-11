@@ -1,7 +1,7 @@
 ## 💫About Me
 Hi! I'm Julian Pira👋, a passionate software developer with experience in a variety of technologies.
 
-🌐 Socials 
+##🌐 Socials 
 [Linkedin](https://www.linkedin.com/in/josejulianpiranaranjo/)
 
 Tech Stack
